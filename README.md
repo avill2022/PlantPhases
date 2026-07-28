@@ -49,8 +49,14 @@ python main.py
 ## Usage
 
 1. **Catalog tab**: Add new plants, configure their growth phases (name, duration, light, water, temperature, humidity requirements)
-2. **Seguimiento (Tracking) tab**: Register plants that have germinated and monitor their current phase
-3. **Calendario (Calendar) tab**: View a timeline of all tracked plants across months
+   <img width="1198" height="831" alt="image" src="https://github.com/user-attachments/assets/b2d9b897-4ca7-410a-b853-7ce1f7b73083" />
+
+3. **Seguimiento (Tracking) tab**: Register plants that have germinated and monitor their current phase
+  <img width="1184" height="271" alt="image" src="https://github.com/user-attachments/assets/00af576d-24ca-4cd4-9a39-cd82f33241fe" />
+
+4. **Calendario (Calendar) tab**: View a timeline of all tracked plants across months
+<img width="901" height="339" alt="image" src="https://github.com/user-attachments/assets/1f8faaca-894f-4fea-9402-f4ffbd4a13c3" />
+
 
 ## Data
 
